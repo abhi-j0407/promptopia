@@ -14,6 +14,10 @@
 - Serves as a platform to post and explore AI prompts.
 - Ability to create profiles, login using Google Auth, Search and filter by User/Tags, and Edit and Delete functionalities for posts.
 
+# Deployment
+
+- This project has been deployed on Vercel (https://promptopia-rk9cwuxo9-abhi-j0407.vercel.app/?vercelToolbarCode=N46TYCgNJOzdBNQ)
+
 # Instructions
 
 - Clone repository from 'https://github.com/abhi-j0407/promptopia.git'
